@@ -1,0 +1,3 @@
+[submodule "application"]
+	path = application
+	url = https://github.com/CXLite/CXLite_Server.git

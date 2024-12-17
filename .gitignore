@@ -1,0 +1,26 @@
+# Logs
+*.log
+
+# python
+*.pyc
+**/__pycache__/
+
+# wsl
+**/*Zone.Identifier*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# users data
+account.txt
+cookies.txt
+application/
+

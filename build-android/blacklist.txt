@@ -1,0 +1,39 @@
+
+# dev
+.vscode
+.git
+.gitignore
+.pylintrc
+?-*.sh
+
+# symlinks
+font.pf2
+dump.pbm
+test.png
+
+# junk
+__pycache__
+.directory
+thumbs.db
+thumbs.db:encryptable
+
+# other dist
+cat-printer-windows-*.zip
+cat-printer-pure-*.zip
+cat-printer-bare-*.zip
+build*/*
+
+# prevent user to include invalid extensions
+*.apk
+*.aab
+*.apks
+*.pxd
+
+# eggs
+*.egg-info
+
+# unit test
+unittest/*
+
+# python config
+config/makesetup

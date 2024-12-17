@@ -1,0 +1,1 @@
+python3,requests,certifi,charset-normalizer,idna,urllib3,pyaes,beautifulsoup4,soupsieve,loguru,fonttools,pyjnius
